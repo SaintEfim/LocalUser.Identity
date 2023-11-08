@@ -1,0 +1,17 @@
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\bin\Debug\net7.0\Users.Persistence.deps.json
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\bin\Debug\net7.0\Users.Persistence.runtimeconfig.json
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\bin\Debug\net7.0\Users.Persistence.dll
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\bin\Debug\net7.0\Users.Persistence.pdb
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\bin\Debug\net7.0\Users.Domain.dll
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\bin\Debug\net7.0\Users.Domain.pdb
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.AssemblyInfo.cs
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.csproj.CopyComplete
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.dll
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\refint\Users.Persistence.dll
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.pdb
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\Users.Persistence.genruntimeconfig.cache
+C:\Users\user\source\AuthenticationService\LocalUser.Persistence\obj\Debug\net7.0\ref\Users.Persistence.dll

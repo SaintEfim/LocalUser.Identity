@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqR5kZaQowWQqdZsD4Dep04rIvjxbXaqh2qqIsLMSY1pqpFmk/zjI3XuRvVlJKlkA1aGzLs9aXBdQYbftoUoKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\AuthenticationService\\LocalUser.Domain\\Users.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Вы выполняете операцию ''restore'' с источником ''HTTP'', ''http://nexus.mes.local:8081/repository/nuget-group/index.json''. Доступ без HTTPS будет удален в будущей версии. Рассмотрите возможность перехода на источник ''HTTPS''."
+    }
+  ]
+}
