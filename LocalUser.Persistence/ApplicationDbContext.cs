@@ -7,7 +7,7 @@ namespace Users.Persistence
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            Database.EnsureCreated();
+            Database.Migrate();
         }
 
         public DbSet<LocalUser> LocalUsers { get; set; }
